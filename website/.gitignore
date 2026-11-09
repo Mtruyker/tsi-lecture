@@ -1,0 +1,4 @@
+node_modules/
+dist/
+public/lectures/
+src/lectures.json
